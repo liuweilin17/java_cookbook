@@ -55,3 +55,4 @@ jenv local xxx
 jenv global xxx
 ```
 
+* Other
